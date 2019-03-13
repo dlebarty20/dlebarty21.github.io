@@ -1,0 +1,59 @@
+body{
+	background-color:lightblue;
+	font-weight:Standard;
+	font: normal 12px Times New Romans, Times, serif
+	line-height:16em;
+	margin:5;
+font-family: "Times New Romans," Times, serif;
+}
+
+P{ 
+font-size: 16PX;
+text-align:left;
+
+}
+
+{height: 100%
+	margin:5;
+	text-align:cente;
+	width:100%
+}
+
+
+h1{
+	font-size:20px
+	text-align:center;
+	font-family: "Times New Romans," Times, serif;}
+	
+	h2{ font-size:18px
+		text-align:center;
+	font-family: "Times New Romans," Times, serif;
+	}
+
+h3{
+	font-size:16px
+	text-align:center;
+	font-family: "Times New Romans," Times, serif;
+	}
+
+h4{
+	font-size:14px
+	text-align:center;
+	font-family: "Times New Romans," Times, serif;	
+}
+
+P{ 
+font-size: 16PX;
+text-align:right;
+}
+
+P{
+	font-size:16px;
+	text-align:left;
+}
+
+P{font-size: 16px;
+	text-align: left;
+	
+}
+
